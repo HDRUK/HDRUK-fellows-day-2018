@@ -2,13 +2,14 @@
 
 This is a collection of the resources mentioned during the Machine Learning and AI discussion group at the HDRUK UK Fellow's day (2018-11-15).
 
-The rough minutes of the discussion are located at []().
+The rough minutes of the discussion are located at <https://alastair-droop.github.io/HDRUK-fellows-day-2018/minutes.md>.
 
 ## Online Resources
 
-URL | Resource
-:---|:--------
-<https://blackswans.io/> | Online statistics community
+* <https://blackswans.io/>
+	
+	Online statistics community
+
 <https://aws.amazon.com/blogs/machine-learning/classifying-high-resolution-chest-x-ray-medical-images-with-amazon-sagemaker/> | An Amazon Web Services blog about classification of chest x-ray images using Amazon SageMaker
 <https://www.kaggle.com/goelrajat/prediciting-pneumonia-from-chest-xray> | Tutorial on using TensorFlow for chest x-ray classification (Data are [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).)
 <https://datascience.stackexchange.com> | Stack exchange site for data science-related questions.
