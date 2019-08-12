@@ -1,5 +1,5 @@
 [![LICENCE](https://img.shields.io/github/license/HDRUK/HDRUK-fellows-day-2018)](https://github.com/HDRUK/HDRUK-fellows-day-2018/blob/master/LICENSE)
-[![Supported By](https://img.shields.io/badge/Supported%20By-HDRUK-blue)](https://hdruk.ac.uk)
+[![Supported By](https://img.shields.io/badge/Supported%20By-HDR%20UK-blue)](https://hdruk.ac.uk)
 
 # Machine Learning and AI Discussion Resources
 
