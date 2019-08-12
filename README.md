@@ -1,3 +1,6 @@
+[![LICENCE](https://img.shields.io/github/license/HDRUK/HDRUK-fellows-day-2018)](https://github.com/HDRUK/HDRUK-fellows-day-2018/blob/master/LICENSE)
+[![Supported By](https://img.shields.io/badge/Supported%20By-HDRUK-blue)](https://hdruk.ac.uk)
+
 # Machine Learning and AI Discussion Resources
 
 This is a collection of the resources mentioned during the Machine Learning and AI discussion group at the HDRUK UK Fellow's day (2018-11-15).
